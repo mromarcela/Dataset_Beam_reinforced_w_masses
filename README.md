@@ -1,1 +1,3 @@
-# Dataset_Beam_reinforced_w_masses
+# Damage assessment of a physical beam reinforced with masses - dataset
+
+https://zenodo.org/records/8081690?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjlmNTJiMWQ1LTRiNjUtNDU5NS05OWJmLTQ3MWViNzU3M2NiYSIsImRhdGEiOnt9LCJyYW5kb20iOiIwYTkwNmZhZDRhMDY4NWVjYzRmMzY4ZDgyNjE5OTQ5OCJ9.ks6tuHRdVm0snw8gs3Fp9atKX4njoPjtnqisDxBKHxQ6ct2hhEdLp7doZ43QTABk28PK0FHZpxsJfYO2TwqRFA
